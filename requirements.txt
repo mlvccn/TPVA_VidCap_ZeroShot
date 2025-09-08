@@ -1,0 +1,6 @@
+torch
+tqdm
+transformers
+icecream
+tensorboard
+nltk
