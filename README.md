@@ -95,12 +95,12 @@ python inference.py
 If you find this repo useful, please cite the following paper.
 
 ```bibtex
-@article{Temporal Prompt Guided Visual-Text-Object Alignment for Zero-Shot Video Captioning,
-  author    = {},
-  title     = {},
-  journal   = {},
+@article{li-cviu2025-videocap,
+  author    = {Ping Li and Tao Wang and Zeyu Pan},
+  title     = {Temporal prompt guided visual-text-object alignment for zero-shot video captioning},
+  journal   = {Computer Vision and Image Understanding (CVIU)},
   volume    = {},
-  pages     = {},
+  pages     = {in press},
   year      = {2025}
 }
 ```
