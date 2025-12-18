@@ -95,15 +95,18 @@ python inference.py
 If you find this repo useful, please cite the following paper.
 
 ```bibtex
-@article{li-cviu2025-videocap,
+@article{li-cviu2026-videocap,
   author    = {Ping Li and Tao Wang and Zeyu Pan},
   title     = {Temporal prompt guided visual-text-object alignment for zero-shot video captioning},
   journal   = {Computer Vision and Image Understanding (CVIU)},
-  volume    = {},
-  pages     = {in press},
-  year      = {2025}
+  volume    = {263},
+  pages     = {104601},
+  year      = {2026}
 }
 ```
+
+## Contact
+If you have any questions, please feel free to contact Mr. Tao Wang via email([212050308@hdu.edu.cn](mailto:212050308@hdu.edu.cn)). 
 
 ## 📄 License
 
